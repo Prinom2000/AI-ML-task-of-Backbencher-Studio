@@ -1,7 +1,7 @@
 # AI-ML-task-of-Backbencher-Studio
 
 # 📌 IMDB Movie Review Sentiment Analysis
-
+Main Dataset Source: https://www.kaggle.com/datasets/mantri7/imdb-movie-reviews-dataset
 ## 🔹 Project Overview
 This project performs **sentiment classification** on the IMDB movie reviews dataset — predicting whether a review is **Positive** or **Negative**.  
 Two approaches have been implemented:
