@@ -2,6 +2,9 @@
 
 # 📌 IMDB Movie Review Sentiment Analysis
 Main Dataset Source: https://www.kaggle.com/datasets/mantri7/imdb-movie-reviews-dataset
+And here I include a part of cleaned dataset. Becouse the main cleaned dataset is more then 25 MB which is not supported by github.
+
+
 ## 🔹 Project Overview
 This project performs **sentiment classification** on the IMDB movie reviews dataset — predicting whether a review is **Positive** or **Negative**.  
 Two approaches have been implemented:
