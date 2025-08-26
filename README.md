@@ -1,4 +1,3 @@
-# AI-ML-task-of-Backbencher-Studio
 
 # 📌 IMDB Movie Review Sentiment Analysis
 Main Dataset Source: https://www.kaggle.com/datasets/mantri7/imdb-movie-reviews-dataset
